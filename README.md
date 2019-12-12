@@ -1,4 +1,4 @@
-# My-WP-BootStrap Starter Theme with SASS and autoreload functionality using VS Code 
+# My WP BootStrap Starter Theme with SASS and autoreload functionality using VS Code 
 
 This is another wordpress starter theme using [Bootstrap 4](https://getbootstrap.com/), 
 
