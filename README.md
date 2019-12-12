@@ -1,6 +1,6 @@
 # My WP BootStrap Starter Theme with SASS and autoreload functionality using VS Code 
 
-This is not just another wordpress starter theme using [Bootstrap 4](https://getbootstrap.com/), it also include value functionality which makes the theme building process easy. 
+This is not just another wordpress starter theme using [Bootstrap 4](https://getbootstrap.com/), it also include valueable functionality which makes the theme building process easy. Just clone this repo. and follow the instruction given bellow :-
 
 setup the liveSass Compiler extension, change the savePath as described bellow.
 
